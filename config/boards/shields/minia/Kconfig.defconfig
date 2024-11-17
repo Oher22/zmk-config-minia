@@ -1,1 +1,6 @@
+if SHIELD_MINIA
 
+config ZMK_KEYBOARD_NAME
+    default "minia"
+
+endif
